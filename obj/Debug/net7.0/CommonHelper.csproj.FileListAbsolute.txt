@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.AssemblyInfo.cs
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\bin\Debug\net7.0\CommonHelper.deps.json
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\bin\Debug\net7.0\CommonHelper.dll
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\bin\Debug\net7.0\CommonHelper.pdb
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.dll
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\refint\CommonHelper.dll
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\CommonHelper.pdb
+C:\Users\admin\Desktop\七奈-CODING\CommonHelper\obj\Debug\net7.0\ref\CommonHelper.dll

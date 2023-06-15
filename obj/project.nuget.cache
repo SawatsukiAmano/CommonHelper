@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2twPyshimPt/IN4N/uvM5p43a+z+cI0/r5G1xMKk0SDj77y3PpVk8jxggGUpnrtV+7ywyX5GwI+GR7QA6Mx/cA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\七奈-CODING\\CommonHelper\\CommonHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\tinypinyin\\1.1.0\\tinypinyin.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\tomlyn\\0.16.2\\tomlyn.0.16.2.nupkg.sha512"
+  ],
+  "logs": []
+}
